@@ -1,7 +1,3 @@
-# 💰🔍 Análisis del Relevamiento Salarial Córdoba 2025
-
-## Descripción
-
 Este proyecto presenta un análisis exploratorio del relevamiento salarial 2025 para cargos públicos y administrativos en la Provincia de Córdoba. Los datos incluyen denominaciones de cargos, categorías y salarios básicos actualizados a marzo de 2025, con el objetivo de brindar una visión transparente y comprensible sobre la estructura salarial del sector público provincial.
 
 El análisis busca identificar rangos salariales, categorías predominantes y posibles patrones en la distribución de los sueldos, aportando información valiosa para estudios económicos, sociales y de políticas públicas.
